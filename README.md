@@ -7,4 +7,5 @@
 ```python
 pip install imutils
 ```
+1. Update checkbox detector.
 
