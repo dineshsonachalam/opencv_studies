@@ -7,5 +7,4 @@
 ```python
 pip install imutils
 ```
-1. update readme
-
+1. Use neural network model for checkbox detection
